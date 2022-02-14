@@ -1,0 +1,96 @@
+
+  /*Css for Card.js
+.card{
+  border: 1px solid black;
+  width: 244px;
+  height: 250px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 10px;
+}
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+}
+body{
+  margin: 2rem;
+  text-align: center;
+  background: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}*/
+
+
+
+/* CSS for COunter 
+
+body{
+  text-align: center;
+  margin-left: 40%;
+  margin-top: 10%;
+
+}
+.counter{
+  border: 1px solid red;
+  font-size: 20px;
+  height: 250px;
+  width: 244px;
+}
+*/
+
+/* CSS for SignupForm 
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.container{
+  margin-top: 20px;
+  border: 1px solid black;
+  width: 20vw;
+  height: 45vh;
+  margin-left: 38rem;
+  border-radius: 10px;
+}
+
+h2{
+  text-align: center;
+  font-size: 5vh;
+}
+.firstname{
+  display: block;
+  margin-top: 1rem;
+}
+
+.lastname, .email, .password{
+  display: block;
+}
+.btn{
+  background-color: green;
+  width: 5vw;
+  border-radius: 10px;
+}*/
+
+
+body{
+  margin: 2rem;
+ 
+}
+
+.image{
+  width: 100%;
+  background-size: cover;
+}
+
+.sportflex{
+  border: 1px solid transparent;
+  width: 80%;
+  height: 60vh;
+  margin: 20px;
+}
+.fl{
+  display: flex;
+  
+}
